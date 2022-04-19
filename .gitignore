@@ -1,0 +1,8 @@
+/.idea/*
+/application/logv1/.gradle/*
+/application/logv1/.idea/*
+/application/logv1/.build/*
+/application/logv1/empty.text
+/application/logv1/gradlew
+/application/logv1/gradlew.bat
+/application/logv1/HELP.md

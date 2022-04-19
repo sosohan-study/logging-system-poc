@@ -1,0 +1,6 @@
+
+### 성공 API
+GET http://localhost:8080/api/samples/process
+
+### 실패 API
+GET http://localhost:8080/api/samples/exception
