@@ -6,3 +6,10 @@
 /application/logv1/gradlew
 /application/logv1/gradlew.bat
 /application/logv1/HELP.md
+/application/logv2/.gradle/*
+/application/logv2/.idea/*
+/application/logv2/.build/*
+/application/logv2/empty.text
+/application/logv2/gradlew
+/application/logv2/gradlew.bat
+/application/logv2/HELP.md 
